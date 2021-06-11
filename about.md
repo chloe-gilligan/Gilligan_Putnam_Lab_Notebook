@@ -32,7 +32,7 @@ Honors Program
 Belmont High School, Belmont, MA    
 (GPA: 3.82/4.00), National Honor Society, High Honors
 
-###Honors and Awards
+### Honors and Awards
 Belmont High School 
 --National Honors Society, (2018)
 --High Honor Roll (May 2019)
