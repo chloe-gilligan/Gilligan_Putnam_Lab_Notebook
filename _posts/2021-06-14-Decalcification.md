@@ -7,7 +7,8 @@ tags: [Protocols, Histology]
 projects: GSO Astrangia 
 ---
 
-#Equipment
+
+##Equipment
 
 - 2 Trifold Beakers
 
@@ -22,7 +23,8 @@ projects: GSO Astrangia
 - Spray Bottle of Alkaline Glassware Detergent
 
 
-#Protocol
+
+##Protocol
 
 1)  Wear proper PPE (gloves, glasses, close-toed shoes, pants, and a lab coat)
 
