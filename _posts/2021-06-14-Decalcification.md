@@ -8,7 +8,7 @@ projects: GSO Astrangia
 ---
 
 
-##Equipment
+### Equipment
 
 - 2 Trifold Beakers
 
@@ -24,7 +24,7 @@ projects: GSO Astrangia
 
 
 
-##Protocol
+### Protocol
 
 1)  Wear proper PPE (gloves, glasses, close-toed shoes, pants, and a lab coat)
 
@@ -49,7 +49,7 @@ projects: GSO Astrangia
 11) Add another 50 mL of HCl into a 500 mL graduated cylinder and pour it into the tripour beaker holding the coral 
 
 
-#Clean Up
+###  Clean Up
 
 1) Rinse the graduated cylinder and any other glassware with Alkaline Glassware Detergent at least 3 times
 
