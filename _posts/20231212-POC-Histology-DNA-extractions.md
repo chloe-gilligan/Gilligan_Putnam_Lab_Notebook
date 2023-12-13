@@ -49,4 +49,4 @@ DNA Standards: 189.24 (S1) & 19645.86 (S2)
 
 ## Next steps
 
-There was still not enough DNA so next step will be to use two samples to test two seperate changes for each. A larger chunk of coral will be used at sample preperation and at the Proteinase K Digestion step a larger
+There was still not enough DNA so next step will be to use two samples to test two seperate changes for each. A larger chunk of coral will be used at sample preperation and at the Proteinase K Digestion step and from there for 2 samples take 4 tubes out and label 1 per sample to follow the protocol directly from that point on and 1 per sample will follow the solid tissues protocol from the [Zymo Quick-DNA mini prep plus protocol](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/Zymo_quick-dna_miniprep_plus_kit.pdf).
