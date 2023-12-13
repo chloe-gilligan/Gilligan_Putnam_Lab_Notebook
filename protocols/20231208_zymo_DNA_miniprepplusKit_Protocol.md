@@ -59,7 +59,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 - Label a clean 1.5 mL microcentrifuge tube for each sample with sample number. This is a temporary tube, so you can use a shortened version of the sample number if desired. Make sure your labeling is clear. Ethanol is used in this protocol and can very easily rub off permanent marker writing on tubes.
 
 1. Invert all sample tubes 3 times to mix buffer well before pipetting out supernatant.
-2. Into a clean 1.5 mL microcentrifuge tube, transfer 400 uL of the supernatant from the sample tube (see notes above).
+2. Into a clean 1.5 mL microcentrifuge tube, transfer 400 uL of the supernatant or 200 uL of supernatant + 200 uL of DNA/RNA shield from the sample tube (see notes above).
     - Add: 20 µl Proteinase K to each sample tube.
     - Invert 3x to mix or vortex 10-15 seconds.
 3. Incubate for **20 minutes** at room temperature.
