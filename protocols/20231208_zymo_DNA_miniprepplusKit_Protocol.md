@@ -108,15 +108,15 @@ These steps analyze the quantity and quality of the DNA extracted.
 
 ### DNA Quantity  
 
-Follow Broad Range dsDNA and Qubit [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Qubit-Protocol/) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
+Follow Broad Range dsDNA and Qubit [protocol](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231214-dsDNA-Qubit-Quantification-Protocol.md) to analyze sample **quantity**. Read standards once and record values, read all samples twice.
 
 ### DNA Quality  
 
-If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
+If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231214-Gel-Protocol.md) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
 
 ## Gel protocol for DNA Quality (From [Kristina Terpis](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/_posts/2021-10-08-20211008-RNA-DNA-extractions-from-E5-project.md))
 
- - Modified from this [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/)
+ - Modified from this [protocol](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231214-Gel-Protocol.md)
  - Set up small gel box and insert gel tray into the box with rubber gaskets touching the long side of the gel box. Make sure gaskets form a flush seal.
  - Make a thin 1.5% gel:
     - Add 0.75g of agarose and 50ml of 1x TAE ("New" container) to flask
