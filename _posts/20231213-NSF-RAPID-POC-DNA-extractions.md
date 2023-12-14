@@ -8,7 +8,7 @@ tags: [DNA, Pocillopora, TPC, NSF COTS RAPID]
 
 ## DNA Extractions for Pocillopora TPC NSF RAPID, December 13, 2023
 
-### [Protocol Link](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/_posts/20231208_zymo_DNA_miniprepplusKit_Protocol.md)
+### [Protocol Link](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231208_zymo_DNA_miniprepplusKit_Protocol.md)
 
 ### Extraction of 4 samples for NSF RAPID COTS project. These Pocillopora samples were collected in Mo'orea in May 2022 and all samples were fixed in DNA/RNA shield.
 

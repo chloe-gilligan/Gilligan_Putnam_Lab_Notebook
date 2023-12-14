@@ -8,7 +8,7 @@ tags: [DNA, Pocillopora, Histology]
 
 ## DNA Extractions for Pocillopora histology, December 11, 2023
 
-### [Protocol Link](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/_posts/20231208_zymo_DNA_miniprepplusKit_Protocol.md)
+### [Protocol Link](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231208_zymo_DNA_miniprepplusKit_Protocol.md)
 
 ### Extraction of 4 samples for Pocillopora Histology project. These samples were collected in Mo'orea in April 2022 for Histology. All samples are fixed and samples were a replicate 2. Extractions were done on 20231207 and QC was done on 20231211
 
