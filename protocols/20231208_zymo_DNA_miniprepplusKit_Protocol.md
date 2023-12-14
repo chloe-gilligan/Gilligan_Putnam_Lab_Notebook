@@ -15,7 +15,7 @@ tags: [DNA, Protocol]
 - Zymo Quick-DNA Miniprep Plus Kit [HERE](https://www.zymoresearch.com/collections/quick-dna-kits/products/quick-dna-miniprep) [Protocol Booklet](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/Zymo_quick-dna_miniprep_plus_kit.pdf)
 - Heating block capable of heating to 70ºC
 - Centrifuge and rotor capable of spinning at 15,000 rcf
-- Plastics: 5 1.5 mL microcentrifuge tubes per sample, 2 PCR tubes per sample, several 1000 uL, 200 uL, and 20 uL pipette tips per sample.
+- Plastics: 5 1.5 mL microcentrifuge tubes per sample, a PCR tube per sample, several 1000 uL, 200 uL, and 20 uL pipette tips per sample.
 
 ## First time opening kit: Reagent Preparation
 
@@ -68,7 +68,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
 ### Lysis and Column Transfer
 
 - Turn on heating block to 65 ºC and fill a 1.5 mL microcentrifuge tube with DNA Elution Buffer. You will need 50 uL for each sample, so aliquot 0.5 mL per 10 samples. Place this tube in the heating block so it will be at 65 ºC when you are ready to elute.
-- Label two clean 1.5 mL microcentrifuge tubes for each sample. 
+- Label a clean 1.5 mL microcentrifuge tubes for each sample. 
 - Set up and label a yellow DNA (IIC-XL Collumn™) column in a collection tube for each sample.
 - Set up a waste beaker for liquid Zymo Kit waste. This will be disposed of in the waste disposal area in the collection container for Zymo Kit Liquid Waste.
 
@@ -78,7 +78,7 @@ Clean pipettes, tip boxes, and the controls on the heating block and centrifuge 
     - Add: **420 uL** (should be a 1:1 ratio with supernatant volume) of **Genomic Binding Buffer**
     - Mix these two solutions by pipetting up and down inside the tube or vortex 10-15 seconds.
     - Transfer the entire volume (~840 uL) onto the labeled IIC-XL Collumn™ filter column (will trap **DNA, yellow** colored) in a collection tube. Switch tips for each sample.
-7. Centrifuge at 15,000 rcf for 30 seconds and **SAVE FLOW THROUGH** from this spin.
+7. Centrifuge at 15,000 rcf for 30 seconds.
     - Discard liquid (flow-through) in collection tube.
 
 ### DNA Extraction
@@ -114,7 +114,7 @@ Follow Broad Range dsDNA and Qubit [protocol](https://zdellaert.github.io/ZD_Put
 
 If DNA quantity is sufficient (typically >10 ng/µL) follow the PPP Agarose Gel [Protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/) to determine DNA quality. "Good" DNA should form a distinct band a the very top of the gel.
 
-## Gel protocol for both DNA Quality (From [Kristina Terpis](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/_posts/2021-10-08-20211008-RNA-DNA-extractions-from-E5-project.md))
+## Gel protocol for DNA Quality (From [Kristina Terpis](https://github.com/Kterpis/Putnam_Lab_Notebook/blob/master/_posts/2021-10-08-20211008-RNA-DNA-extractions-from-E5-project.md))
 
  - Modified from this [protocol](https://zdellaert.github.io/ZD_Putnam_Lab_Notebook/Gel-Protocol/)
  - Set up small gel box and insert gel tray into the box with rubber gaskets touching the long side of the gel box. Make sure gaskets form a flush seal.
