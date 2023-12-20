@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2023-12-14 POC Histology DNA Extractions
-date: '2022-12-14'
+title: 2023-12-15 POC TPC DNA Extractions
+date: '2022-12-15'
 categories: Processing
 tags: [DNA, Pocillopora, TPC, NSF COTS RAPID]
 ---
@@ -60,8 +60,8 @@ DNA Standards: 191.17 (S1) & 19469.32 (S2)
 
 Added 9 uL aliquots of DNA sample to 1 uL of dye to the gel
 
-![images/Gels/20231213-gel.jpg](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/images/Gels/20231213-gel.jpg?raw=true)
+Gel was re run on 20231220 which is the photo below.
+
+![images/Gels/20231220-gel.jpg](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/images/Gels/20231220-gel.jpg?raw=true)
 
 ## Next steps
-
-- Will run PCR on tuesday 20231219
