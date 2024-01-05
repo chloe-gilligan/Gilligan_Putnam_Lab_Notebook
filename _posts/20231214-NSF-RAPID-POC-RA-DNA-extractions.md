@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 2023-12-13 TPC POC Histology PCR date: '2022-12-13'
+title: 2023-12-13 TPC POC Relative Abundance DNA Extractions date: '2022-12-13'
 categories: Processing
 tags: [DNA, Pocillopora, TPC, NSF COTS RAPID]
 ---
 
-## PCR for Pocillopora TPC NSF RAPID, December 14, 2023
+## PCR for Pocillopora Lagoon Relative Abundance NSF RAPID, December 14, 2023
 
 ### [Protocol Link](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231215-PCR-Protocol.md)
 
-### PCR for 4 samples for NSF RAPID COTS project. These Pocillopora samples were collected in Mo'orea in May 2022..
+### PCR for 4 samples for NSF RAPID COTS project. These Pocillopora samples were collected in Mo'orea in May 2022.
 
 ## Samples
 
