@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2023-12-15 POC TPC DNA Extractions
+title: 2023-12-15  POC Relative Abundance DNA Extractions
 date: '2022-12-15'
 categories: Processing
-tags: [DNA, Pocillopora, TPC, NSF COTS RAPID]
+tags: [DNA, Pocillopora, Relative Abundance, NSF COTS RAPID]
 ---
 
-## DNA Extractions for Pocillopora TPC NSF RAPID, December 13, 2023
+## DNA Extractions for Pocillopora Lagoon Relative Abundance NSF RAPID, December 13, 2023
 
 ### [Protocol Link](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231208_zymo_DNA_miniprepplusKit_Protocol.md)
 
