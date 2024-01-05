@@ -10,8 +10,8 @@ tags: [DNA, Pocillopora, Relative Abundance, NSF COTS RAPID]
 
 ### [Protocol Link](https://github.com/chloe-gilligan/Gilligan_Putnam_Lab_Notebook/blob/master/protocols/20231208_zymo_DNA_miniprepplusKit_Protocol.md)
 
-### Extraction of 16 samples for NSF RAPID COTS project. These Pocillopora samples were collected in Mo'orea in May 2022 and all samples were fixed in DNA/RNA shield.
-18 samples
+### Extraction of 18 samples for NSF RAPID COTS project. These Pocillopora samples were collected in Mo'orea in May 2022 and all samples were fixed in DNA/RNA shield.
+
 
 ## Samples
 
