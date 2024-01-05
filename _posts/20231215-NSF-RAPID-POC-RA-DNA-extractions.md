@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023-12-15  POC Relative Abundance DNA Extractions
-date: '2022-12-15'
+date: '2023-12-15'
 categories: Processing
 tags: [DNA, Pocillopora, Relative Abundance, NSF COTS RAPID]
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2023-12-13 TPC POC Relative Abundance DNA Extractions date: '2022-12-13'
+title: 2023-12-13 TPC POC Relative Abundance DNA Extractions date: '2023-12-13'
 categories: Processing
-tags: [DNA, Pocillopora, TPC, NSF COTS RAPID]
+tags: [DNA, Pocillopora, Relative Abundance, NSF COTS RAPID]
 ---
 
 ## PCR for Pocillopora Lagoon Relative Abundance NSF RAPID, December 14, 2023
