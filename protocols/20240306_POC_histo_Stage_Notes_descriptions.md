@@ -9,7 +9,6 @@ tags: [Histology, staging guide, Pocillopora]
 
 # Time of development
 
-
 - Oocytes: started in October-Janurary, with little to none found in Feburary and March (Krueger, Schleyer 1998)
 
 - Spermatotcytes: Growth from October-December
