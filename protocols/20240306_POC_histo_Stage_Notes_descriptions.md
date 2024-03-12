@@ -59,10 +59,10 @@ Pronounced nucleus for all stages of development
 - Stage One: No cytoplasam present (Kruger, Schleyer 1998)
 
 
-- Stage Two: Uniform cytoplasam present (Kruger, Schleyer 1998)  Between stages there is a reduction  in oocytes per ovary (Stoddart, Black 1985)
+- Stage Two: Uniform cytoplasm present (Kruger, Schleyer 1998)  Between stages there is a reduction  in oocytes per ovary (Stoddart, Black 1985)
 
 
-- Stage Three: Undergoing vitellogenesis (formation of yolk) and contain small spherical cavities in the cytoplasm. These cavities contain lipid but lipid is no longer present after histological slide preperation (Kruger, Schleyer 1998)(Stoddart, Black 1985)
+- Stage Three: Undergoing vitellogenesis (formation of yolk) and contain small spherical cavities in the cytoplasm. These cavities contain lipid but lipid is no longer present after histological slide preparation (Kruger, Schleyer 1998)(Stoddart, Black 1985)
 
 
 - Stage Four: Oocytes are mature; their cytoplasm was filled with enlarged vacuoles, and they are infested with zooxanthellae before spawning (Kruger, Schleyer 1998).
