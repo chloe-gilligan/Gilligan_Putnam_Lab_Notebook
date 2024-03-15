@@ -10,7 +10,7 @@ Resources
 [ImageJ Software](https://imagej.net/ij/download.html)
 [Unity Desktop](https://ood.unity.rc.umass.edu)
 
-##Work flow
+## Work flow
 - Using unity to open files (insert Danielle's protocol for installing unity)
 - Once imageJ is open, select file and then open a .vsi file
 - Each sample has two slides with two cross sections on each slide,
