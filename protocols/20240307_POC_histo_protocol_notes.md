@@ -19,28 +19,14 @@ Resources
 - For the stage guide, corals were sized and characteristics were observed in order to assign a stage.
 - When taking measurements, the diagonal diameter of oocytes was taken as they were usually and elongated oval shape.
 	- For the final staging and sizing, the method of size measurements will be taken as a geometric mean
+- Grid of 11,000 was overlaid
+- 5 polyps per corss sectioned were counted and sized
+- Started on polyp on top left of grid and worked through the 5 polyps
+- Counted all gametes in the cross section of 5 polyps
+- 3 gametes were measured of each stage
+	- If less then 3 gametes found of a stage, the amoutn seen would be measured
+- The first slide was opened and the first series, if the slide does not look great, series 21 was opened, adn if that is not great I went to slide two and repeated the process. 
 
-
-
-Count all
-measure 3 max of each stage per each gamate 
-
-
-grid was 10,000
-
-grid not really needed if counting all but maybe for measurements
-
--how are measurements determined?
-- not sure if measureming polyps or colonies 
-- what to do if stage one eggs have not been determined 
-
-
-slide 1 opened first and if it felt empty with no 5 polyps selected, went to slide two. series 14 was opened first and if there was nothing there the next series was opened.
-
-
-5 good looking polyps per cross section
-
-started towards the top left polyp and then moved through
 
 - Running into an issue where I am assigning stage to oocytes without a nucleus based on timing and size for relative abundance but then sizing it anyways. 
  	- What I will do is make a note of when they were sized without a nuclues if it was the only oocyte to size
