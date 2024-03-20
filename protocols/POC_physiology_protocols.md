@@ -12,12 +12,8 @@ projects: NSF RAPID, Putnam Lab
 ### Standard protocol for Airbrushing tissue from coral 
 
 Original: 2020-01-01  
-Last Revised: 2024-03-13
+Last Revised: 2024-03-13 CG
 
-Contents  
-- [**Materials**](#Materials)  
-- [**Protocol**](#Protocol)  
-- [**References**](#References)  
  
 1. <a name="Materials"></a> **Materials**
     - 	[Iwata airbrush](https://www.amazon.com/Iwata-Medea-Eclipse-Action-ECL-2000/dp/B000R3C3SM/ref=sxts_b2b_sx_reorder?crid=2TKH5LNCIVIKE&cv_ct_cx=iwata+airbrush&keywords=iwata+airbrush&pd_rd_i=B000R3C3SM&pd_rd_r=0e38e09c-5389-47ca-9134-5c4e7d5ed552&pd_rd_w=LCb6v&pd_rd_wg=2o16O&pf_rd_p=a7bfb983-e674-4caa-917b-596cc469ad1f&pf_rd_r=3E5B1CZB6TK1WATTFG6X&qid=1577948043&sprefix=iwata%2Caps%2C315)
@@ -71,12 +67,8 @@ Contents
 # Standard protocol for coral surface area measurments using a paraffin wax bath
 
 Original: 20210217
-Last Revised: 20240313
+Last Revised: 20240313 CG
 
-**Contents**
-- [**Materials**](#Materials)  
-- [**Protocol**](#Protocol)
-- [**References**](#References)
 
 <a name="Materials"></a> **Materials**
   -    [Minerva paraffin wax bath](https://www.minervabeauty.com/digital-paraffin-wax-warmer?gclid=CjwKCAiAmrOBBhA0EiwArn3mfNRqPSXpWiILetogcl_4F_T27bdrLqC9FXPBtVWOapMeurZt758Y-xoChMUQAvD_BwE)
@@ -163,12 +155,8 @@ Last Revised: 20240313
 # Quantifying Chl-a and Chl-c2 Concentration in Symbiodiniaceae from coral tissues
 
 Original: 20200101  
-Last Revised: 20220115 DMBP
+Last Revised: 20240320 CG
 
-Contents  
-- [**Materials**](#Materials)   
-- [**Protocol**](#Protocol)  
-- [**References**](#References)  
 
 1. <a name="Materials"></a> **Materials**
     - 	100% acetone
@@ -256,12 +244,7 @@ Need to correct for differences in path length of the volume in the 96 well plat
 
 ## BCA host and holobiont protein
 
-
-Contents  
-- [**Materials**](#Materials)    
-- [**Protocol**](#Protocol)  
-- [**Standard Table**](#Table)  
-- [**References**](#References)  
+20240320 CG
  
 1. <a name="Materials"></a> **Materials**
     - 	[Pierce BCA Protein Assay Kit from Thermo Scientific](https://www.thermofisher.com/order/catalog/product/23225?SID=srch-srp-23225).  
@@ -326,6 +309,8 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 
 
 ## Biomass
+
+20240320 CG
 
 Contents  
 - [**Materials**](#Materials)    
@@ -403,10 +388,7 @@ Ex. 1 | 4.0 | 4.5632 | 4.8005 | 0.237 | 4.7542 | 0.011575 |
 
 ## Cell density/ symbiont counts
 
-    Contents  
-- [**Materials**](#Materials)    
-- [**Protocol**](#Protocol)  
-- [**References**](#References)  
+20240320 CG
  
 1. <a name="Materials"></a> **Materials**
     -  Compound light microscrope

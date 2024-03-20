@@ -41,3 +41,6 @@ slide 1 opened first and if it felt empty with no 5 polyps selected, went to sli
 5 good looking polyps per cross section
 
 started towards the top left polyp and then moved through
+
+- Running into an issue where I am assigning stage to oocytes without a nucleus based on timing and size for relative abundance but then sizing it anyways. 
+ 	- What I will do is make a note of when they were sized without a nuclues if it was the only oocyte to size
