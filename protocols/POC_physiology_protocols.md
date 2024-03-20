@@ -158,6 +158,8 @@ Last Revised: 20240313
   -  Stimson, J. and Kinzie III, R.A., 1991. The temporal pattern and rate of release of zooxanthellae from the reef coral Pocillopora damicornis (Linnaeus) under nitrogen-enrichment and control conditions. Journal of Experimental Marine Biology and Ecology, 153(1), pp.63-74.
   -  Veal, C.J., Carmi, M., Fine, M. and Hoegh-Guldberg, O., 2010. Increasing the accuracy of surface area estimation using single wax dipping of coral fragments. Coral Reefs, 29(4), pp.893-897.
 
+
+
 # Quantifying Chl-a and Chl-c2 Concentration in Symbiodiniaceae from coral tissues
 
 Original: 20200101  
@@ -202,15 +204,16 @@ Contents
 2. If not done already, centrifuge the 500 μL aliquot of adult airbrush homogenate at 13,000 rpm for 3 minutes to separate the host and Symbiodiniaceae cells.  
 3. Remove and discard the supernatant.  
 4. Add 1 mL of 100% acetone to the pellet in the 1.5 mL microcentrifuge tube and vortex the tubes for 15 sec.  
-5. Place the tubes in a fridge in the dark at 4°C for 24 hours.  
-6. Vortex the tubes for 15 sec.  
-7. Spin the tubes down at 13,000 rpm for 3 minutes in the microcentrifuge to pellet any debris.  
-8. Pipette 200µl of sample to duplicate wells of 96-well quartz plate.   
-9. Pipette 200µl of acetone blank to duplicate wells.  
-10. Cover the plate with silicone pad every 5th sample or so to reduce evaporate as samples are added.  
-11. Remove silicon pad.   
-12. Follow steps below to measure the extract Absorbance on the [Synergy HTX Multi-Mode Microplate Reader](https://www.biotek.com/products/detection-multi-mode-microplate-readers/synergy-htx-multi-mode-reader/) at 630, 663, and 750 nm in a 96-well quartz plate.
-13. Standardize for path length in 200µl of sample in 96-well quartz plate.
+6. Add 1 ml of 100% acetone to a new 1.5 ml microcentrifuge tube to incubate with samples.
+7. Place the tubes in a fridge in the dark at 4°C for 24 hours.  
+8. Vortex the tubes for 15 sec.  
+9. Spin the tubes down at 13,000 rpm for 3 minutes in the microcentrifuge to pellet any debris.  
+10. Pipette 200µl of sample to duplicate wells of 96-well quartz plate.   
+11. Pipette 200µl of acetone blank to duplicate wells and 200µl of incubated acetone blank to duplicate wells.   
+12. Cover the plate with silicone pad every 5th sample or so to reduce evaporate as samples are added.  
+13. Remove silicon pad.   
+14. Follow steps below to measure the extract Absorbance on the [Synergy HTX Multi-Mode Microplate Reader](https://www.biotek.com/products/detection-multi-mode-microplate-readers/synergy-htx-multi-mode-reader/) at 630, 663, and 750 nm in a 96-well quartz plate.
+15. Standardize for path length in 200µl of sample in 96-well quartz plate.
 
 **Measure the Absorbance**  
 
@@ -248,6 +251,10 @@ Need to correct for differences in path length of the volume in the 96 well plat
     2. [Warren 2007](https://www.tandfonline.com/doi/full/10.1080/01904160802135092?casa_token=RqeUl1Ccg7AAAAAA%3A6SyNAs848qrRk1-Tf1g088xWD10z1Xngb8cmcgRvC3jYSYPugr2cL8QG9wFvrFj7xZF-pqqUozonRg)
     3. [Synergy HTX Operating Manual](https://github.com/urol-e5/protocols/blob/master/synergy_htx_manual.pdf)
     4. [Gen5 Software Manual](https://github.com/urol-e5/protocols/blob/master/Gen5_software_manual.pdf)
+
+
+
+## BCA host and holobiont protein
 
 
 Contents  
@@ -317,6 +324,9 @@ For this project, we will use 9 standards and 200 μL of WR is required for each
 4. <a name="References"></a> **References**  
 [Pierce BCA Protein Assay](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
 
+
+## Biomass
+
 Contents  
 - [**Materials**](#Materials)    
 - [**Protocol**](#Protocol)  
@@ -380,7 +390,6 @@ Sample ID | Sample volume (mL) | Burned pan (g) | Burned pan + Dry residue (g) |
 Calculations | | | | = D-C | | = (D-F)/B |
 Ex. 1 | 4.0 | 4.5632 | 4.8005 | 0.237 | 4.7542 | 0.011575 |
 
-## Muffle furnace
 ![Drying Oven](x)
 ![Muffle Furnace](x)
 ![Centrifuge](x)
@@ -390,6 +399,9 @@ Ex. 1 | 4.0 | 4.5632 | 4.8005 | 0.237 | 4.7542 | 0.011575 |
 
     1.  Fitt et al., 2000. Seasonal patterns of tissue biomass and densities of symbiotic dinoflagellates in reef corals and relation to coral bleaching. Limnol. Oceanogr., 45(3), 2000, 677–685
     2.  Schoepf et al., 2013. Coral Energy Reserves and Calcification in a High-CO2 World at Two Temperatures. PLoS ONE 8: e75049
+
+
+## Cell density/ symbiont counts
 
     Contents  
 - [**Materials**](#Materials)    

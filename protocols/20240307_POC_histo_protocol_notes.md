@@ -23,4 +23,21 @@ Resources
 
 
 Count all
-measure 10
+measure 3 max of each stage per each gamate 
+
+
+grid was 10,000
+
+grid not really needed if counting all but maybe for measurements
+
+-how are measurements determined?
+- not sure if measureming polyps or colonies 
+- what to do if stage one eggs have not been determined 
+
+
+slide 1 opened first and if it felt empty with no 5 polyps selected, went to slide two. series 14 was opened first and if there was nothing there the next series was opened.
+
+
+5 good looking polyps per cross section
+
+started towards the top left polyp and then moved through
