@@ -17,11 +17,12 @@ April 2024 goals and daily notebook entries.
 3. Finish Astrangia intro
 4. Update URI phys protocols with photos
 5. Write land acknowledgements for RI and Moorea
+6. Write Astrangia abstract for temperate coral conference
 
 ### Sample processing
 
 1. Complete POC image analysis
-2.  Re-do Ast histo analysis
+2.  Re-do AST histo analysis
 
 ### Data analysis
 
