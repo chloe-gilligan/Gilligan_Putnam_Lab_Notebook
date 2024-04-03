@@ -16,6 +16,7 @@ April 2024 goals and daily notebook entries.
 2. Draft of POC phys methods completed
 3. Finish Astrangia intro
 4. Update URI phys protocols with photos
+5. Write land acknowledgements for RI and Moorea
 
 ### Sample processing
 
@@ -25,13 +26,13 @@ April 2024 goals and daily notebook entries.
 ### Data analysis
 
 1. Start data clean up for POC phys
-
+2. QC data for POC
 
 ### Other to-do's
 1. Call Garmin
 2. Set up Zenoto
 3. Number notebook pages and upload all notebook photos
-4. 
+4. Go the R data carpentry
 
 ## Daily log 
 
