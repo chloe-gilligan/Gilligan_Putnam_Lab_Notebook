@@ -29,4 +29,6 @@ Resources
 
 
 - Running into an issue where I am assigning stage to oocytes without a nucleus based on timing and size for relative abundance but then sizing it anyways. 
- 	- What I will do is make a note of when they were sized without a nuclues if it was the only oocyte to size
+ 	- What I will do is make a note of when they were sized without a nucleus if it was the only oocyte to size
+
+- 
