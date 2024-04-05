@@ -27,7 +27,7 @@ April 2024 goals and daily notebook entries.
 ### Data analysis
 
 1. Start data clean up for POC phys
-2. QC data for POC
+2. QC phys data for POC
 
 ### Other to-do's
 1. Call Garmin
@@ -66,6 +66,11 @@ April 2024 goals and daily notebook entries.
 
 20240404
 
+- Took photos and labelled all of wetlab notebook and updated it to google drive and git hub
+- POC histo data collection
+- Edited POC phys methods 
 
 
 20240405
+
+- Finished POC data!
