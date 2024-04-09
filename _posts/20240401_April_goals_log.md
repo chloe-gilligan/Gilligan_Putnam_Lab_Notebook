@@ -8,11 +8,13 @@ tags: Goals
 
 April 2024 goals and daily notebook entries. 
 
+~ (=Done)
+
 ## Goals  
 
 ### Writing and manuscripts 
               
-1. Draft of POC histo methods completed
+1. Draft of POC histo methods completed ~
 2. Draft of POC phys methods completed
 3. Finish Astrangia intro
 4. Update URI phys protocols with photos
@@ -21,19 +23,23 @@ April 2024 goals and daily notebook entries.
 
 ### Sample processing
 
-1. Complete POC image analysis
+1. Complete POC image analysis ~
 2.  Re-do AST histo analysis
+3. Sym counts for POC phys
 
 ### Data analysis
 
 1. Start data clean up for POC phys
 2. QC phys data for POC
+3. Create final staging guide for Pocillopora
 
 ### Other to-do's
-1. Call Garmin
+1. Call Garmin  ~
 2. Set up Zenoto
-3. Number notebook pages and upload all notebook photos
+3. Number notebook pages and upload all notebook photos ~
 4. Go the R data carpentry
+5. Create a freezer inventory system
+6. 
 
 ## Daily log 
 
@@ -74,3 +80,20 @@ April 2024 goals and daily notebook entries.
 20240405
 
 - Finished POC data!
+
+20240408
+
+- Went through POC histo data and did QC, edited a few errors 
+- Took notes on POC histo method errors and changes for Hollie, outlining some questions
+- Started research on methods for freezer inventory
+- Organized set up and continued POC sym counts
+- Went through fridge and freezer and located samples for Ariana and Hollie
+
+20240409
+
+- Responded to Hollie with outlines answering her questions and outlining and changes I made to document
+- Went through and Qc'd Chlorophyll data in R. Removed outliers 
+- Writing meeting 
+- Entered literature data into staging table 
+- Sym counts
+
