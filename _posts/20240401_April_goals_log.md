@@ -32,6 +32,7 @@ April 2024 goals and daily notebook entries.
 1. Start data clean up for POC phys
 2. QC phys data for POC
 3. Create final staging guide for Pocillopora
+4. Make a table of the POC literature 
 
 ### Other to-do's
 1. Call Garmin  ~
@@ -96,4 +97,12 @@ April 2024 goals and daily notebook entries.
 - Writing meeting 
 - Entered literature data into staging table 
 - Sym counts
+
+20240410
+
+- Made table with POC literature between species
+- Fridge inventory of fridge B
+- Sym counts
+- Brainstormed freezer inventory for POC
+- Went through AST samples, will ask Jill or Hollie about status of samples next week
 
