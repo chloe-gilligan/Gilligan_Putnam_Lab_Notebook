@@ -106,3 +106,14 @@ April 2024 goals and daily notebook entries.
 - Brainstormed freezer inventory for POC
 - Went through AST samples, will ask Jill or Hollie about status of samples next week
 
+20240411
+
+- Took photos of notebooks, uploaded and numbered images 
+- Emailed Oliver and discussed moving the shelf in CBLS wetlab 
+- Toured facility for extractions in coastal instituite
+- Ran two practice extractions with the 96 well plate quick DNA kit with Hollie
+
+
+20240412
+
+- 
