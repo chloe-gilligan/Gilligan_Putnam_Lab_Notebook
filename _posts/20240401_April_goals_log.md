@@ -112,8 +112,12 @@ April 2024 goals and daily notebook entries.
 - Emailed Oliver and discussed moving the shelf in CBLS wetlab 
 - Toured facility for extractions in coastal instituite
 - Ran two practice extractions with the 96 well plate quick DNA kit with Hollie
+- Checked storage for pipette tips
 
 
 20240412
 
-- 
+- Took photos of notebooks, uploaded and numbered pages
+- Emailed and communicated with Jill, Erin, and Emma about notebooks 
+- Sym counts, uploaded, and pushed data
+- Worked on Astrangia abstract 
