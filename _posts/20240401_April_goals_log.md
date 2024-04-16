@@ -121,3 +121,24 @@ April 2024 goals and daily notebook entries.
 - Emailed and communicated with Jill, Erin, and Emma about notebooks 
 - Sym counts, uploaded, and pushed data
 - Worked on Astrangia abstract 
+
+20240415
+
+- Took photos of notebooks, uploaded and numbered pages
+- Wrote a weekly summary for Hollie and posted it
+- Labelled 2 ml tubes and transfered over AST samples in formalin to 70% ethanol in 2 ml tubes 
+
+
+20240416
+
+- Labelled 2 ml tubes and transfered over AST samples in formalin to 70% ethanol in 2 ml tubes 
+- Journal Club
+- Finished taking photos of notebooks, uploading and numbering pages
+- Meeting with Hollie
+- Took notes and posted notes on meeting with Hollie
+- Edited Astrangia abstract
+
+
+
+
+
