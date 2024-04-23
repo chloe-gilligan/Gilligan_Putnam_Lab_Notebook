@@ -89,9 +89,16 @@ To do this you will...
 
 
 
+Goal for POC project from Hollie: For example we have 8 metal racks with 11 boxes each in the -20 chest freezer. We want to make it easy to find any original tube or DNA tube from the project as we are working on the extractions, PRC, and analysis. Therefore we need to know exactly which tubes are in which boxes. For me the easiest would be to have a QR code on each metal rack that links you to an inventory sheet with all of the boxes and then all of the boxes have a link to all of the tubes inside
 
 
+This will total 88 spreadsheets or 88 spreadsheet tabs. Within the following system: [POC outline for QR code Inventory](https://docs.google.com/spreadsheets/d/1CbU6nK-960_QcuX7Wy812JRbo1uCjw_x8-OBr_EbiM8/edit?usp=sharing)
 
+In order to simplify the amount of spreadsheets. I might recommend just creating a numbering system for the metal racks and in sample metadata label which samples are in what box and then on the spreadsheet saying what rack each box is in. 
+
+There will still be a QR code on each box that will link to metadata. On this it will have the sample IDs and what boxes there are in as states above.
+
+A QR code for the racks that lists the boxes that are in each rack is completely possible. This would have the box names and then links to metadata for those projects. And each of the 11 boxes in one rack would have a link to the total project metadata.
 
 
 
