@@ -138,7 +138,23 @@ April 2024 goals and daily notebook entries.
 - Took notes and posted notes on meeting with Hollie
 - Edited Astrangia abstract
 
+20240417
+
+- Edited Astrangia abstract
+- QCing and making a masterlist of histology AST samples
+- Running into a big issue with sample ID's while making a table of collected samples Making a table for c
 
 
+20240422
+
+- Made QR codes for all dry storage linking to inventory
+- Designed and brainstormed QR code methods for organization 
+- Showed Zoe how to do sym coutns with formalin
+
+
+20240423
+
+- Wrote protocol for the two potential methods of QR code organization
+- 
 
 
