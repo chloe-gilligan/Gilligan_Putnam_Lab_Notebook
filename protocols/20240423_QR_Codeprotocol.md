@@ -71,6 +71,10 @@ You are almost done! Now in order to turn this into a functioning very beautiful
 You can select all the QR codes you would like and can also select their sample box label and can print all on cryogenic paper that will stick on the box.
 
 
+Google docs QR code encoding info was derived from 
+(this site)[https://www.benlcollins.com/spreadsheets/qr-codes-in-google-sheets/] 
+
+
 
 ###The other option is to do it in [QR monkey](https://www.qrcode-monkey.com/#)
 
@@ -83,6 +87,8 @@ To do this you will...
 3) In order to print multiple at a time, I recommend making a google sheet with the label of what the QR code includes.
 
 4) These can be printed, cut, and placed on the box 
+
+
 
 
 

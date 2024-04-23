@@ -19,7 +19,7 @@ April 2024 goals and daily notebook entries.
 3. Finish Astrangia intro
 4. Update URI phys protocols with photos
 5. Write land acknowledgements for RI and Moorea
-6. Write Astrangia abstract for temperate coral conference
+6. Write Astrangia abstract for temperate coral conference ~
 
 ### Sample processing
 
@@ -32,7 +32,7 @@ April 2024 goals and daily notebook entries.
 1. Start data clean up for POC phys
 2. QC phys data for POC
 3. Create final staging guide for Pocillopora
-4. Make a table of the POC literature 
+4. Make a table of the POC literature ~
 
 ### Other to-do's
 1. Call Garmin  ~
