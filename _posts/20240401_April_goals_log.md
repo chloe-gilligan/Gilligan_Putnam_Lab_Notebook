@@ -17,7 +17,7 @@ April 2024 goals and daily notebook entries.
 1. Draft of POC histo methods completed ~
 2. Draft of POC phys methods completed
 3. Finish Astrangia intro
-4. Update URI phys protocols with photos
+4. Update URI phys protocols with photos~
 5. Write land acknowledgements for RI and Moorea
 6. Write Astrangia abstract for temperate coral conference ~
 
@@ -148,13 +148,41 @@ April 2024 goals and daily notebook entries.
 20240422
 
 - Made QR codes for all dry storage linking to inventory
+- Made QR codes for all freezers
 - Designed and brainstormed QR code methods for organization 
-- Showed Zoe how to do sym coutns with formalin
+- Showed Zoe how to do sym counts with formalin
+- Called travel department
+- Trying to figure out Astrangia poculata data, comparing data between Jills sample ID's, the sample ID's in the boxes, and the sample ID's that we have in slides. Made a comparison and overlapped them to figure out any inconsistencies. 
 
 
 20240423
 
 - Wrote protocol for the two potential methods of QR code organization
-- 
+- Created AST histology game plan
+- Writing meeting
+- Edited POC histo paper
+- Went through and made examples with POC samples about QR code flow through
+
+
+20240424
+
+- Edited POC histo table
+- Created a new AST spreadsheet
+- Lab meeting
+- Read a few papers about coral vitellogenesis
+
+20240425
+
+- Made github repo from Astrangia histo
+- Staged and sized Astrangia samples
+- Took photos of lab equipment
+- Updated URI physiology protocols
+
+20240426
+
+- Staged many many Astrangia samples!
+- Updated POC phys protocol text
+- Worked on creating a protocol for naming boxes 
+- Updated weekly agenda
 
 
