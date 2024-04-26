@@ -145,6 +145,10 @@ April 2024 goals and daily notebook entries.
 - Running into a big issue with sample ID's while making a table of collected samples Making a table for c
 
 
+20240418
+- Trying to figure out Astrangia poculata data, comparing data between Jills sample ID's, the sample ID's in the boxes, and the sample ID's that we have in slides. Made a comparison and overlapped them to figure out any inconsistencies. 
+
+
 20240422
 
 - Made QR codes for all dry storage linking to inventory
@@ -183,6 +187,7 @@ April 2024 goals and daily notebook entries.
 - Staged many many Astrangia samples!
 - Updated POC phys protocol text
 - Worked on creating a protocol for naming boxes 
+- Read and took notes on a few papers
 - Updated weekly agenda
 
 
