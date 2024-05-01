@@ -191,3 +191,11 @@ April 2024 goals and daily notebook entries.
 - Updated weekly agenda
 
 
+20240429
+Out for procedure
+
+20240430
+
+- Staged many many more Astrangia samples!
+- Created notes for AST methods with things I noticed when staging
+-A bunch of train delays and arrangments, worked from home/trains/train stations for the day doing staging. About halfway done
