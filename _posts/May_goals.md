@@ -68,3 +68,25 @@ Goals for next week
 - Start AST presentation
 - Write out AST discussion
 - If time do more POC phys QC
+
+20240501
+
+- Personal day visit to Umass Dartmouth
+
+
+20240502
+
+- AST histology
+- Replaced some expired QR codes around lab
+
+20240503
+
+- AST histology
+- AST discussion notes
+- Lab meeting
+- Inventory, box replacements
+- Poured out Mecuric acetate titration samples
+- Filed a couple of Haz pick ups
+- FINISHED AST histo!!
+- Onto AST AP histo, hopefully to finish this week
+
