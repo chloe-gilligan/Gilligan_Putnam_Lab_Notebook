@@ -57,5 +57,18 @@ June 2024 goals and daily notebook entries.
 
 - Checked on POC histo decalcifying 
 - Lab meeting 
-- Worked on DI water 
+- Worked on DI water in aquarium room
 - POC Chlorophyll phys R and QC work
+
+20240606
+
+- Made 20% HCl solution
+- Changed out HCl solution for 20% 
+- Chlorophyll quality control and coding
+- Working on trying to get code for outliers to work in R
+- Trained undergrads on sym counts
+- Helped Flo with Apex 
+
+
+
+
