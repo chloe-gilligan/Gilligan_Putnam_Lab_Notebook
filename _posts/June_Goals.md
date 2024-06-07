@@ -65,9 +65,17 @@ June 2024 goals and daily notebook entries.
 - Made 20% HCl solution
 - Changed out HCl solution for 20% 
 - Chlorophyll quality control and coding
-- Working on trying to get code for outliers to work in R
+- Working on trying to get code for outliers to work in R, used z-score in the end
 - Trained undergrads on sym counts
 - Helped Flo with Apex 
+- Finished Chl outlier removal 
+
+20240607
+
+- Updated github issues
+- Pushed updates to Chl figures
+- Updating excel for Biomass, fixing changes that exist for biomass
+- 
 
 
 
