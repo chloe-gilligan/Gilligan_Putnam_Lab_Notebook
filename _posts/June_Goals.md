@@ -75,8 +75,14 @@ June 2024 goals and daily notebook entries.
 - Updated github issues
 - Pushed updates to Chl figures
 - Updating excel for Biomass, fixing changes that exist for biomass
-- 
+- Switched out HCl 
 
+20240610
+
+- Summarized changes and observations to github issues 
+- Helped Eliza with aquarium room 
+- Updated sym count data
+- 
 
 
 
