@@ -82,7 +82,54 @@ June 2024 goals and daily notebook entries.
 - Summarized changes and observations to github issues 
 - Helped Eliza with aquarium room 
 - Updated sym count data
-- 
+- Did sym counts 
 
+20240611
+
+- Changed out HCl
+- Took samples that were done decalcifying out of HCl and into Z-fix
+- Sym counts
+
+20240612
+
+- Out for CPR course
+- Wrote methods for POC histo manuscript
+
+20240613
+
+- Removed corals that have completed decalcifying and put them into Z-fix
+- Labelled 2 ml tubes to ship out corals 
+- Moved completed samples to 2 ml tubes
+- Sym counts 
+
+20240614
+
+- Sym counts
+- POC methods writing
+
+
+20240615
+
+- Sym counts
+- Removed samples that were done decalcifying
+- Parafilmed decalcified samples
+- POC methods writing 
+
+
+20240617
+
+- Extractions with Hollie
+- Prepared the last couple of samples that were done decalcified 
+- Prepared package to mail to NOVA
+- Create a guide and info for NOVA
+
+20240618
+
+- Mailed package to NOVA
+- Disposed of tips
+- Helped Eliza and Sarah with sym count set up
+- Created plates of POC ID sample boxes onto 96 well tuberacks
+- Zoom with Danielle to help with sperm staging
+- 
 
 
