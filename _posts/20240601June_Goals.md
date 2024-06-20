@@ -130,6 +130,12 @@ June 2024 goals and daily notebook entries.
 - Helped Eliza and Sarah with sym count set up
 - Created plates of POC ID sample boxes onto 96 well tuberacks
 - Zoom with Danielle to help with sperm staging
+
+20240620
+
+- Cleaned containers of decalcified corals
+- Finished settign up POC tube racks
+- POC sym counts
 - 
 
 
