@@ -134,8 +134,7 @@ June 2024 goals and daily notebook entries.
 20240620
 
 - Cleaned containers of decalcified corals
-- Finished settign up POC tube racks
+- Finished setting up POC tube racks
 - POC sym counts
-- 
 
 
