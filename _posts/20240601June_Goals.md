@@ -137,4 +137,36 @@ June 2024 goals and daily notebook entries.
 - Finished setting up POC tube racks
 - POC sym counts
 
+20240621
+
+- Labelled plate maps
+- Left at 2 to drive to boston to go to hopsital for mom
+
+
+20240624
+
+- Finished labelling plate maps
+- Worked on TER and TAR
+- Sym counts
+
+20240625
+
+- Trained undergrads on airbrushing with Jill's samples 
+- Set undergrads up to airbrush this summer for Jill
+- Put HCl containers away and cleaned up decalcification supplies
+- Sym counts
+
+20240626
+
+- Sym counts
+- Lab meeting
+- Planning to get E5 samples located
+
+20240627
+
+
+
+
+
+
 
