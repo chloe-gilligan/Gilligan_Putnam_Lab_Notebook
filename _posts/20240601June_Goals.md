@@ -164,6 +164,22 @@ June 2024 goals and daily notebook entries.
 
 20240627
 
+- Helped undergrads with airbrushing 
+- Located E5 samples for sample processing for A.H.
+- Sym counts
+
+20240628
+
+- Located E5 samples for sample processing for A.H.
+- Sym counts
+- Cleaning fume hood
+- Updated cold inventory
+- Updated lab inventory
+- Pushed finished sym counts
+- Filed hazerdous waste pick up
+- updated notebook
+- Made a wrap up and moving forwards plan
+- Updated plate maps on POC_ID_RA
 
 
 
