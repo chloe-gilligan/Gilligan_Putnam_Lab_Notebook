@@ -179,7 +179,6 @@ June 2024 goals and daily notebook entries.
 - Filed hazerdous waste pick up
 - updated notebook
 - Made a wrap up and moving forwards plan
-- Updated plate maps on POC_ID_RA
 
 
 
